@@ -11,7 +11,7 @@
 	<groupId>com.udemy</groupId>
 	<artifactId>compras</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>compras</name>
 	<description>API gestão de Cooperativas</description>
 
