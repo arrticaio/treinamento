@@ -6,6 +6,7 @@ schema {
 	mutation:Mutation 
 }
 
+
 type Query {
 	
 	hello:String
